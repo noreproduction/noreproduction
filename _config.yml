@@ -22,3 +22,7 @@ navbar:
    link: "about"
  - name: "Resume"
    absolute-link: "https://rahulbothra.com/cv.pdf"
+
+plugins:
+  - jekyll-assets
+
