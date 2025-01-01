@@ -5,6 +5,15 @@
 
 $accent: #FF0F00;
 
+/* 注释 */
+@font-face {
+    font-family: "FangZhengFangSong-GBK";
+    src: url("/assets/fonts/FangZhengFangSong-GBK-1.woff2") format("woff2"),
+         url("/assets/fonts/FangZhengFangSong-GBK-1.woff") format("woff"),
+         url("/assets/fonts/FangZhengFangSong-GBK-1.ttf") format("truetype");
+  }
+  
+
 $max-width: 740px;
 $med-width: 600px;
 $small-width: 480px;
