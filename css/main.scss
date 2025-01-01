@@ -87,6 +87,7 @@ code {
         color: #272727;
         display: inline-block;
         font-size: 30px;
+        font-family: "SimHei", sans-serif;  // 设置为黑体字
     }
     .details{
         @extend .pull-right;
@@ -180,6 +181,7 @@ code {
 .content {
     line-height: 1.5;
     font-size: 24px; // 修改为你需要的大小
+    font-family: FangZhengFangSong-GBK;
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
         margin-block-end: 0em !important;
