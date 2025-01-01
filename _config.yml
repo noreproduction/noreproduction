@@ -12,7 +12,7 @@ footer_text: "Theme by rhl-bthr"
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
 
-permalink: /:year-:month-:day-:title/
+permalink: /noreproduction/:year-:month-:day-:title/
 sass:
     style: compressed
     sass_dir: css
@@ -21,7 +21,7 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: "https://noreproduction.github.io/noreproduction"
 
 plugins:
   - jekyll-assets
