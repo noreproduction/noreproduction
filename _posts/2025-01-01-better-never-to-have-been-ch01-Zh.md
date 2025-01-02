@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《宁可未曾存在过》 第一章
+title: 《宁可未曾存在过》<br>第一章
 subtitle: 引言——谁有那么幸运？——反生育主义与多育偏好——本书纲要——读者指导
 tags: [guide, markdown]
 
