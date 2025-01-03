@@ -9,8 +9,8 @@ $accent: #FF0F00;
 @font-face {
     font-family: "FangZhengFangSong-GBK";
     src: url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff2") format("woff2"),
-         url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff") format("woff"),
-         url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.ttf") format("truetype");
+        //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff") format("woff"),
+        //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.ttf") format("truetype");
   }
   
 
@@ -22,7 +22,7 @@ $small-width: 480px;
 
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    // font-family: "Inconsolata";
     background-color: #FFFFDD;
     min-height: 100%;
 }
