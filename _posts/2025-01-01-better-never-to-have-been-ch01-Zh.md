@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《宁可未曾存在过》(第一章)
+title: 《宁可未曾存在过》（第一章）
 subtitle: 不曾存在，就无从被剥夺。
 tags: [经典]
 
