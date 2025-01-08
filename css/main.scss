@@ -7,8 +7,10 @@ $accent: #FF0F00;
 
 /* 注释 */
 @font-face {
-    font-family: "FangZhengFangSong-GBK";
-    src: url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff2") format("woff2"),
+    font-family: "FangZhengFangSongJianTi";
+    src: url("/noreproduction/assets/fonts/FangZhengFangSongJianTi-1.woff2") format("woff2"),
+    // font-family: "FangZhengFangSong-GBK";
+    // src: url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff2") format("woff2"),
         //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff") format("woff"),
         //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.ttf") format("truetype");
   }
@@ -97,7 +99,7 @@ code {
     }
     .subtitle {
         max-width: 500px;
-        font-family: helvetica, "FangZhengFangSong-GBK", sans-serif;
+        font-family: helvetica, "FangZhengFangSongJianTi", sans-serif;
     }    
 }
 
@@ -181,9 +183,9 @@ code {
 
 .content {
     line-height: 1.5;
-    font-size: 24px; // 修改为你需要的大小
+    font-size: 24px; 
     // font-family: "FangZhengFangSong-GBK";
-    font-family: helvetica, "FangZhengFangSong-GBK", sans-serif;
+    font-family: helvetica, "FangZhengFangSongJianTi", sans-serif;
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
         margin-block-end: 0em !important;
