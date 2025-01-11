@@ -34,6 +34,15 @@ body.night-mode {
     color: #FFFFFF;  // 夜间模式文字色
 }
 
+body.night-mode .navbar .site-title {
+    color: #FFFFFF;
+}
+
+body.night-mode .post-card .title {
+    color: #FFFFFF;
+}
+
+
 a {
     text-decoration: none;
     color: $accent;
@@ -91,6 +100,11 @@ code {
         color: #272727;
         display: inline-block;
     }
+
+    // doesn't work
+    // .site-title.night-mode {
+    //     color: #FFFFFF;        
+    // }
 }
 
 // index
@@ -104,6 +118,12 @@ code {
         font-size: 30px;
         font-family: "SimHei", sans-serif;  // 设置为黑体字
     }
+
+    // // doesn't work
+    // .title.night-mode {
+    //     color: #FFFFFF;     
+    // }
+
     .details{
         @extend .pull-right;
         text-align: right;
