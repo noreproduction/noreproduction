@@ -13,7 +13,8 @@ layout: default
         </a>
 
         <div class="details">
-            <b>{{ post.date | date: "%d %B %Y" }}</b>
+            <!-- <b>{{ post.date | date: "%d %B %Y" }}</b> -->
+            <b>{{ post.date | date:"%Y-%m-%d" }}</b>
             <br>
             {% if post.tags %}
                 <b>[</b>

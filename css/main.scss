@@ -28,6 +28,12 @@ body {
     background-color: #FFFFDD;
     min-height: 100%;
 }
+
+body.night-mode {
+    background-color: #121212;  // 夜间模式背景色
+    color: #FFFFFF;  // 夜间模式文字色
+}
+
 a {
     text-decoration: none;
     color: $accent;
@@ -35,6 +41,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+a.night-mode {
+    color: #BB86FC;  // 夜间模式下链接的颜色
+}
+
+
+
 hr {
     margin: 5px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -185,7 +198,8 @@ code {
     line-height: 1.5;
     font-size: 24px; 
     // font-family: "FangZhengFangSong-GBK";
-    font-family: helvetica, "FangZhengFangSongJianTi", sans-serif;
+    // font-family: helvetica, "FangZhengFangSongJianTi", sans-serif;
+    font-family: "times new roman", "FangZhengFangSongJianTi", sans-serif;
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
         margin-block-end: 0em !important;
