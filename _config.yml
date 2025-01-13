@@ -3,7 +3,7 @@ author: SaintThanos
 subtitle: Antinatalism
 
 url: "https://noreproduction.github.io"
-baseurl: "/noreproduction"
+baseurl: "/"
 
 footer_only_homepage: true
 # footer_url: "https://github.com/rhl-bthr"
