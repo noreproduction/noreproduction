@@ -14,6 +14,16 @@ $accent: #FF0F00;
         //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.woff") format("woff"),
         //  url("/noreproduction/assets/fonts/FangZhengFangSong-GBK-1.ttf") format("truetype");
   }
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
+.noto-serif-sc-<uniquifier> {
+    font-family: "Noto Serif SC", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
   
 
 $max-width: 740px;
@@ -220,7 +230,9 @@ code {
     font-size: 24px; 
     // font-family: "FangZhengFangSong-GBK";
     // font-family: helvetica, "FangZhengFangSongJianTi", sans-serif;
-    font-family: "times new roman", "FangZhengFangSongJianTi", sans-serif;
+    // font-family: "times new roman", "FangZhengFangSongJianTi", sans-serif;
+    font-family: "times new roman", "Noto Serif SC", sans-serif;
+    
     h1, h2, h3, h4 {
         margin-block-start: 2em !important;
         margin-block-end: 0em !important;
