@@ -21,7 +21,8 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Contact"
-   absolute-link: "https://noreproduction.github.io/noreproduction"
+   link: "contact" 
+  #  absolute-link: "https://noreproduction.github.io/noreproduction"
 
 plugins:
   - jekyll-assets
