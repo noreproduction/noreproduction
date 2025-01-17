@@ -19,9 +19,9 @@ sass:
 
 navbar:
  - name: "About"
-   link: "about"
+   link: about
  - name: "Contact"
-   link: "contact" 
+   link: contact
   #  absolute-link: "https://noreproduction.github.io/noreproduction"
 
 plugins:
