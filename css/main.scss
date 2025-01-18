@@ -229,7 +229,7 @@ code {
 }
 
 
-
+// 适配Pixel 4 XL设备宽度/视口宽度/该设备的逻辑像素宽度，另iPhone 8 Plus的对应值为375px
 @media (max-width: 412px) {
     .content {
         font-size: 20px !important;
