@@ -3,26 +3,31 @@ layout: default
 title: About
 ---
 
+
+
 >Birth is suffering, sickness is suffering, old age is suffering, death is suffering; pain, grief, sorrow, lamentation, and despair are suffering.
 
->生是苦，老是苦，病是苦，死是苦；忧愁、悲伤、痛苦、哀叹、绝望是苦。
+>生是苦难，老是苦难，病是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
 
-—— GAUTAMA BUDDHA, *Four Noble Truths*. India, 6<sup>th</sup> century BC | 乔达摩·佛陀，《四圣谛》 （印度，公元前6世纪）
+—— GAUTAMA BUDDHA, *Four Noble Truths*.（释迦牟尼，《四圣谛》）
+
+
 
 ------
+
 
 
 >To the one who possesses discernment, everything is suffering. 
 
->对拥有慧眼的人来说，世间一切皆是苦。
+>对拥有慧眼的人来说，一切存在皆是苦难。
 
-—— PATANJALI, *Yoga Sutras*. India, 2<sup>nd</sup> century | 帕坦伽利，《瑜伽经》 (印度，公元2世纪)
+—— PATANJALI, *Yoga Sutras*.（帕坦伽利，《瑜伽经》）
+
+
 
 ------
 
 
-
 Philosophy has discussed all questions that haunt the human mind, except one: *the ethical validity of Procreation*. No monograph was ever written in order to dissect its purported merits, or to demonstrate its criminal nature. Supreme taboo! Absolute scotomization. As if procreation were our ultimate idol, our terminal illusion, the armoured sanctuary where questioning seems to have no right to be exercised! And yet, behind this strange sacredness of fertility, dwell many perversions that any attentive observer should be able to discover…
 
-哲学已经探讨了困扰人类心灵的所有问题，但唯独遗漏了一个：生育的伦理正当性。从未有一本专门的著作来剖析它的所谓优点，或论证其犯罪本质。这是最高级别的禁忌！绝对的盲区。仿佛生育是我们的终极神祇，我们的最终虚妄，是一个不容置疑的坚固圣域！然而，在这种奇特的生育神圣性的背后，潜藏着许多任何细心观察者都应该能够发现的扭曲现象...
-
+哲学已经探讨了困扰人类心灵的所有问题，但唯独遗漏了一个：**生育的伦理正当性**。从未有一本专门的著作来剖析它的所谓优点，或论证其犯罪本质。这是最高级别的禁忌！是绝对的盲区。仿佛生育是我们的终极神祇，我们的最终虚妄，是一个不容置疑的坚固圣域！然而，在这种奇特的生育神圣性的背后，潜藏着许多任何细心观察者都应该能够发现的扭曲现象……
