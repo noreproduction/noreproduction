@@ -181,11 +181,6 @@ code {
 
 // Mobile
 
-@media (max-width: 1440px) {
-    .content {
-        font-size: 20px;
-    } 
-}
 
 @media (max-width: 800px) {
     .container {
@@ -231,6 +226,12 @@ code {
             float: none;
         }
 	}
+}
+
+@media (max-width: 412px) {
+    .content {
+        font-size: 20px;
+    } 
 }
 
 //  typography
