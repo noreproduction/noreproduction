@@ -7,7 +7,7 @@ title: About
 
 >Birth is suffering, sickness is suffering, old age is suffering, death is suffering; pain, grief, sorrow, lamentation, and despair are suffering.
 
->生是苦难，老是苦难，病是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
+>生是苦难，病是苦难，老是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
 
 —— GAUTAMA BUDDHA, *Four Noble Truths*.（释迦牟尼，《四圣谛》）
 
@@ -19,7 +19,7 @@ title: About
 
 >To the one who possesses discernment, everything is suffering. 
 
->对拥有慧眼的人来说，一切存在皆是苦难。
+>对拥有慧眼的人来说，世间一切皆是苦难。
 
 —— PATANJALI, *Yoga Sutras*.（帕坦伽利，《瑜伽经》）
 
@@ -27,6 +27,15 @@ title: About
 
 ------
 
+
+
+>一切快乐都只不过是下一茬儿苦难的引诱剂。一切存在都是苦难。
+
+—— 王东岳，《佛教大观与佛教宗旨》（讲座）
+
+
+
+------
 
 Philosophy has discussed all questions that haunt the human mind, except one: *the ethical validity of Procreation*. No monograph was ever written in order to dissect its purported merits, or to demonstrate its criminal nature. Supreme taboo! Absolute scotomization. As if procreation were our ultimate idol, our terminal illusion, the armoured sanctuary where questioning seems to have no right to be exercised! And yet, behind this strange sacredness of fertility, dwell many perversions that any attentive observer should be able to discover…
 
