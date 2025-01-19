@@ -40,7 +40,8 @@ body {
 }
 
 body.night-mode {
-    background-color: #121212;  // 夜间模式背景色
+    // background-color: #121212;  // 夜间模式背景色
+    background-color: #1f1f1f; 
     color: #FFFFFF;  // 夜间模式文字色
 }
 
@@ -229,8 +230,8 @@ code {
 }
 
 
-// 适配Pixel 4 XL设备宽度/视口宽度/该设备的逻辑像素宽度，另iPhone 8 Plus的对应值为375px
-@media (max-width: 412px) {
+// 适配iPhone 8 Plus设备宽度/视口宽度/该设备的逻辑像素宽度，另Pixel 4 XL的对应值为412px
+@media (max-width: 414px) {
     .content {
         font-size: 20px !important;
     }
