@@ -9,7 +9,7 @@ title: About
 
 >生是苦难，病是苦难，老是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
 
-—— GAUTAMA BUDDHA, *Four Noble Truths*.（释迦牟尼，《四圣谛》）
+—— GAUTAMA BUDDHA, *[Four Noble Truths](https://encyclopediaofbuddhism.org/wiki/Four_Noble_Truths)*.（释迦牟尼，《四圣谛》）
 
 
 
