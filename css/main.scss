@@ -375,3 +375,14 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+
+figure {
+    text-align: center; // 整个 <figure> 内容居中，包括图片和说明
+  
+    figcaption {
+      font-size: 14px; // 可选：调整说明文字大小
+      color: #555;     // 可选：说明文字颜色
+      margin-top: 8px; // 可选：增加图片与文字的间距
+    }
+  }
+  
