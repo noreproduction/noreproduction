@@ -18,6 +18,12 @@ tags: [原创]
 
 ![公元前10,000年以来的世界人口变化及未来趋势]({{ site.baseurl }}/assets/images/Annual-World-Population-since-10-thousand-BCE.png)
 
+<figure>
+    <img src="{{ site.baseurl }}/assets/images/Annual-World-Population-since-10-thousand-BCE.png" alt="Annual-World-Population-since-10-thousand-BCE">
+    <figcaption>公元前10,000年以来的世界人口变化及未来趋势</figcaption>
+</figure>
+
+
 
 <p id="who is so lucky" style="text-align: center; font-family: 'SimHei', sans-serif; font-weight: bold;">谁那么幸运？</p>
 
