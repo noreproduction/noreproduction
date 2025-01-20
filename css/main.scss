@@ -377,12 +377,13 @@ table tr th :last-child, table tr td :last-child {
 }
 
 figure {
-    text-align: center; // 整个 <figure> 内容居中，包括图片和说明
+    display: inline-block;  // 让 <figure> 居中
+    text-align: center;     // 内容居中，包括图片和文字
+    margin: 0 auto;         // 在父容器中居中
   
     figcaption {
-      font-size: 14px; // 可选：调整说明文字大小
-      color: #555;     // 可选：说明文字颜色
-      margin-top: 8px; // 可选：增加图片与文字的间距
+      font-size: 14px;
+      color: #555;
     }
   }
   
