@@ -3,7 +3,7 @@
 ---
 // Customization Variables
 
-$accent: #FF0F00;
+// $accent: #FF0F00;
 
 /* 注释 */
 @font-face {
@@ -53,17 +53,18 @@ body.night-mode .post-card .title {
     color: #FFFFFF;
 }
 
+body.night-mode a {
+    color: #BB86FC;  // 夜间模式下链接的颜色
+}
+
 
 a {
     text-decoration: none;
-    color: $accent;
+    // color: $accent;
+    color:royalblue;
 }
 a:hover {
     text-decoration: underline;
-}
-
-a.night-mode {
-    color: #BB86FC;  // 夜间模式下链接的颜色
 }
 
 
