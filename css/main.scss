@@ -376,14 +376,33 @@ table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
 
-figure {
-    display: inline-block;  // 让 <figure> 居中
-    text-align: center;     // 内容居中，包括图片和文字
-    margin: 0 auto;         // 在父容器中居中
+// figure {
+//     display: inline-block;  // 让 <figure> 居中
+//     text-align: center;     // 内容居中，包括图片和文字
+//     margin: 0 auto;         // 在父容器中居中
+  
+//     figcaption {
+//       font-size: 14px;
+//       color: #555;
+//     }
+//   }
+  
+  figure {
+    display: block;         // 确保换行布局
+    text-align: center;     // 内容居中
+    width: 100%;            // 占满父容器宽度
+    max-width: 600px;       // 可选：设置最大宽度，防止在大屏幕上过宽
+    margin: 0 auto;         // 居中对齐
+  
+    img {
+      width: 100%;          // 图片占满容器宽度
+      height: auto;         // 保持图片比例
+    }
   
     figcaption {
-      font-size: 14px;
+      font-size: 14px;      // 调整说明文字大小
       color: #555;
+      margin-top: 8px;
     }
   }
   
