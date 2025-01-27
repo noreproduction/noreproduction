@@ -3,4 +3,4 @@ layout: default
 title: Contact
 ---
 
-0birth@protonmail.com
+0suffering@protonmail.com
