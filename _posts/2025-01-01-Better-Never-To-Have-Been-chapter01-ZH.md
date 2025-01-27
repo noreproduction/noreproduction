@@ -5,7 +5,7 @@ subtitle: 不曾存在，就无从被剥夺。
 tags: [经典]
 
 ---
-作者：David Benatar 
+作者：David Benatar<br>
 译者：李屹
 
 <a href="#intro">引言</a>/
