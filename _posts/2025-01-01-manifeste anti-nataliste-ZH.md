@@ -76,7 +76,6 @@ Sophocle, <i>Œdipe à Colone</i>. Grèce, Ve siècle av. J.-C.
 
 
 > La vie humaine n’est que souffrances, et il n’y a nulle trêve à ses peines.
->
 
 <div style="text-align: right;">
 Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
@@ -90,13 +89,19 @@ Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
 
 ------
 
+> La vie d’un homme s’accompagne dès la naissance de soucis de toute espèce.
+>
+> La vie n’est que poussière et ordure.
 
+<div style="text-align: right;">
+Tchouang-Tseu, <i>Œuvre</i>. Chine, IVe siècle av. J.-C.
+</div>
 
-La vie d’un homme s’accompagne dès la naissance de soucis de toute espèce.
+一个人的一生从出生开始就伴随着各种各样的烦恼。 
 
-La vie n’est que poussière et ordure.
+生命不过是尘土和污秽。
 
-
+—— 庄子，《庄子》，中国，公元前4世纪
 
 
 

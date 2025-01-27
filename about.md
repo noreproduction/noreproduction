@@ -7,9 +7,14 @@ title: About
 
 >Birth is suffering, sickness is suffering, old age is suffering, death is suffering; pain, grief, sorrow, lamentation, and despair are suffering.
 
->生是苦难，病是苦难，老是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
+<div style="text-align: right;">
+    GAUTAMA BUDDHA, <a href="https://encyclopediaofbuddhism.org/wiki/Four_Noble_Truths" target="_blank"><i>Four Noble Truths</i></a>. India, 6th century BC
+</div>
 
-—— GAUTAMA BUDDHA, *[Four Noble Truths](https://encyclopediaofbuddhism.org/wiki/Four_Noble_Truths)*.（释迦牟尼，《四圣谛》）
+生是苦难，病是苦难，老是苦难，死是苦难；忧愁、悲伤、痛苦、哀叹、绝望都是苦难。
+
+—— 释迦牟尼，《四圣谛》，印度，公元前6世纪
+
 
 
 
@@ -19,9 +24,14 @@ title: About
 
 >To the one who possesses discernment, everything is suffering. 
 
->对拥有慧眼的人来说，世间一切皆是苦难。
+<div style="text-align: right;">
+    PATANJALI, <i>Yoga Sutras</i>. India, 2nd century
+</div>
 
-—— PATANJALI, *Yoga Sutras*.（帕坦伽利，《瑜伽经》）
+
+对拥有慧眼的人来说，世间一切皆是苦难。
+
+—— 帕坦伽利，《瑜伽经》，印度，公元2世纪
 
 
 
@@ -29,7 +39,7 @@ title: About
 
 
 
->一切快乐都只不过是下一茬儿苦难的引诱剂。一切存在都是苦难。
+一切快乐都只不过是下一茬儿苦难的引诱剂。一切存在都是苦难。
 
 —— 王东岳，《佛教大观与佛教宗旨》（讲座）
 
