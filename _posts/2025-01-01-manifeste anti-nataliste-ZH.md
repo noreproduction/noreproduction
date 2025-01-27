@@ -38,7 +38,7 @@ Quelques citations tirées des meilleurs esprits suffisent à s’en convaincre.
 > Tel est le sort que les dieux ont filé pour les malheureux mortels : vivre dans la douleur.
 
 <div style="text-align: right;">
-Homère, <i>Iliade</i>. Grèce, VIIIe siècle av. J.-C.
+Homère, <i>Iliade</i>. Grèce, VIII<sup>e</sup> siècle av. J.-C.
 </div>
 
 这就是众神为不幸的凡人编织的命运：活在痛苦之中。
@@ -57,8 +57,9 @@ Homère, <i>Iliade</i>. Grèce, VIIIe siècle av. J.-C.
 > Là d’où l’on vient, et le plus tôt sera le mieux !
 
 <div style="text-align: right;">
-Sophocle, <i>Œdipe à Colone</i>. Grèce, Ve siècle av. J.-C.
+Sophocle, <i>Œdipe à Colone</i>. Grèce, V<sup>e</sup> siècle av. J.-C.
 </div>
+
 宁可百次不曾出生； 
 
 但如果我们必须看到光明， 
@@ -78,8 +79,9 @@ Sophocle, <i>Œdipe à Colone</i>. Grèce, Ve siècle av. J.-C.
 > La vie humaine n’est que souffrances, et il n’y a nulle trêve à ses peines.
 
 <div style="text-align: right;">
-Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
+Euripide, <i>Hippolyte</i>. Grèce, V<sup>e</sup> siècle av. J.-C.
 </div>
+
 
 人类的生命不过是痛苦，而其痛苦无休无止。
 
@@ -94,8 +96,9 @@ Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
 > La vie n’est que poussière et ordure.
 
 <div style="text-align: right;">
-Tchouang-Tseu, <i>Œuvre</i>. Chine, IVe siècle av. J.-C.
+Tchouang-Tseu, <i>Œuvre</i>. Chine, IV<sup>e</sup> siècle av. J.-C.
 </div>
+
 
 一个人的一生从出生开始就伴随着各种各样的烦恼。 
 
