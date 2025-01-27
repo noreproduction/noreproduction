@@ -51,9 +51,9 @@ Homère, <i>Iliade</i>. Grèce, VIIIe siècle av. J.-C.
 
 
 
-> Mieux vaut cent fois n’être pas né ; 
-> Mais s’il nous faut voir la lumière, 
-> Le moindre mal encore est de s’en retourner 
+> Mieux vaut cent fois n’être pas né ; <br>
+> Mais s’il nous faut voir la lumière, <br>
+> Le moindre mal encore est de s’en retourner <br>
 > Là d’où l’on vient, et le plus tôt sera le mieux !
 
 <div style="text-align: right;">
@@ -84,13 +84,17 @@ Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
 
 人类的生命不过是痛苦，而其痛苦无休无止。
 
-—— 欧里庇得斯，《希波吕托斯》，公元前5世纪，希腊
+—— 欧里庇得斯，《希波吕托斯》，希腊，公元前5世纪
 
 
 
 ------
 
 
+
+La vie d’un homme s’accompagne dès la naissance de soucis de toute espèce.
+
+La vie n’est que poussière et ordure.
 
 
 
