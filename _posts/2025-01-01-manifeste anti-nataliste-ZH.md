@@ -38,19 +38,57 @@ Quelques citations tirées des meilleurs esprits suffisent à s’en convaincre.
 > Tel est le sort que les dieux ont filé pour les malheureux mortels : vivre dans la douleur.
 
 <div style="text-align: right;">
-    Homère, <italic>Iliade</italic>. Grèce, VIIIe siècle av. J.-C.
+Homère, <i>Iliade</i>. Grèce, VIIIe siècle av. J.-C.
 </div>
 
 这就是众神为不幸的凡人编织的命运：活在痛苦之中。
 
-—— 荷马《伊利亚特》，希腊，公元前8世纪
-
-Mieux vaut cent fois n’être pas né ; 
-Mais s’il nous faut voir la lumière, 
-Le moindre mal encore est de s’en retourner 
-Là d’où l’on vient, et le plus tôt sera le mieux !
+—— 荷马，《伊利亚特》，希腊，公元前8世纪
 
 
+
+------
+
+
+
+> Mieux vaut cent fois n’être pas né ; 
+> Mais s’il nous faut voir la lumière, 
+> Le moindre mal encore est de s’en retourner 
+> Là d’où l’on vient, et le plus tôt sera le mieux !
+
+<div style="text-align: right;">
+Sophocle, <i>Œdipe à Colone</i>. Grèce, Ve siècle av. J.-C.
+</div>
+宁可百次不曾出生； 
+
+但如果我们必须看到光明， 
+
+最小的痛苦还是回到 
+
+我们来自的地方，越早越好！
+
+—— 索福克勒斯，《科洛诺斯的俄狄浦斯》，希腊，公元前5世纪
+
+
+
+------
+
+
+
+> La vie humaine n’est que souffrances, et il n’y a nulle trêve à ses peines.
+>
+
+<div style="text-align: right;">
+Euripide, <i>Hippolyte</i>. Grèce, Ve siècle av. J.-C.
+</div>
+
+人类的生命不过是痛苦，而其痛苦无休无止。
+
+—— 欧里庇得斯，《希波吕托斯》，公元前5世纪，希腊
+
+
+
+------
 
 
 
