@@ -1,10 +1,13 @@
 ---
 layout: post
-title: 《宁可未曾存在过》（第一章）
+title: 《生儿为人是何苦：出生在世的伤害》（第一章）
 subtitle: 不曾存在，就无从被剥夺。
-tags: [David Benatar, 经典]
+tags: [经典]
 
 ---
+作者：David Benatar 
+译者：李屹
+
 <a href="#intro">引言</a>/
 <a href="#who is so lucky">谁那么幸运</a>/
 <a href="#narrative">反生论述和劝生的偏见</a>/
