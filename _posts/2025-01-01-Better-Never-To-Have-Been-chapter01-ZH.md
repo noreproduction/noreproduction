@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 《生儿为人是何苦：出生在世的伤害》（第一章 导论）
+title: 《生儿为人是何苦：出生在世的伤害》（第一章）
 subtitle: 不曾存在，就无从被剥夺。
 tags: [经典]
 
 ---
 作者：David Benatar<br>
-译者：李屹
+译者：李屹<br>
 站长注：如需获取全书，请转至[译著发行方介绍链接](https://guepubtw.com/2023/02/22/never-to-have-been/)
 
 <a href="#intro">导论</a>/
