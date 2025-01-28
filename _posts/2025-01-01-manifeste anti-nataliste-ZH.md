@@ -248,14 +248,13 @@ Montesquieu, <i>Lettres persanes</i>. France, XVIII<sup>e</sup> siècle.
 
 
 
-> La vie m’est un fardeau, je désire la mort et j’abhorre l’existence. 
+> La vie m’est un fardeau, je désire la mort et j’abhorre l’existence. <br>
 > Oh ! que ne suis je jamais né !
 
 <div style="text-align: right;">
 J. W. von Goethe, <i>Faust</i>. Allemagne, XIX<sup>e</sup> siècle.
 </div>
-
-生命对我而言是一种负担，我渴望死亡，我厌恶存在。
+生命对我而言是一种负担，我渴望死亡，我厌恶存在。<br>
 啊！要是我从未出生该多好！
 
 —— 约翰·沃尔夫冈·冯·歌德，《浮士德》，德国，公元19世纪
@@ -264,3 +263,127 @@ J. W. von Goethe, <i>Faust</i>. Allemagne, XIX<sup>e</sup> siècle.
 
 ------
 
+
+
+> Un certain soir détestable j’eus le malheur de naître.
+>
+
+<div style="text-align: right;">
+Lermontov, <i>Un Héros de notre Temps</i>. Russie, XIX<sup>e</sup> siècle.
+</div>
+
+在一个讨厌的夜晚，我不幸降生。
+
+—— 莱蒙托夫，《我们时代的英雄》，俄罗斯，公元19世纪
+
+
+
+------
+
+
+
+> Après le malheur de naître, je n’en connais pas de plus grand que celui de donner le jour à un homme. 
+>
+
+<div style="text-align: right;">
+Chateaubriand, <i>Mémoires d’Outre-Tombe</i>. France, XIX<sup>e</sup> siècle.
+</div>
+
+出生已是一场悲剧，而将这种悲剧延续给另一个人，更是莫大的不幸。
+
+—— 夏多布里昂，《墓畔回忆录》，法国，公元19世纪
+
+
+
+------
+
+
+
+> La vie est un mal.
+>
+
+<div style="text-align: right;">
+Auguste Strindberg, <i>Coram Populo</i>. Suède, XIX<sup>e</sup> siècle.
+</div>
+
+生命是一场苦难。
+
+—— 奥古斯特·斯特林堡，《公众面前》，瑞典，公元19世纪
+
+
+
+------
+
+
+
+> La Paix s’obtient dans la mort. Il faut mourir pour entrer dans la Paix.
+>
+
+
+<div style="text-align: right;">
+Natsume Sôseki, <i>Je suis un Chat</i>. Japon, XX<sup>e</sup> siècle.
+</div>
+
+只有死亡才能带来安宁。想要进入安宁状态，必须经历死亡。
+
+—— 夏目漱石，《我是猫》，日本，公元20世纪
+
+
+
+------
+
+
+
+> Le rêve, le seul rêve est de n’être pas né.
+
+<div style="text-align: right;">
+André Breton, <i>L’Immaculée Conception</i>. France, XX<sup>e</sup> siècle.
+</div>
+
+梦想，唯一的梦想就是从未出生过。
+
+—— 安德烈·布勒东，《圣母始孕无玷》，法国，公元20世纪
+
+
+
+------
+
+Inutile d’insister, nous pourrions multiplier ces culpabilisantes doléances par dizaines de milliers. Pour un échantillon un peu plus étoffé, nous suggérons au lecteur de parcourir l’Appendice I : il y découvrira à quel point la psyché collective s’indigne de n’avoir dû naître que pour nager incommensurablement plus souvent sous une banquise d’insatisfactions que dans un lagon de complétude.
+
+不必再强调了，类似的抱怨，我们还能列出成千上万条。如果读者想更深入地了解，建议查阅附录一：在那里，读者将发现集体潜意识对自身命运的强烈不满——他们生来似乎注定要不断在无尽的失望冰原中挣扎，而不是在满足的乐土中畅游。
+
+On le voit, le plaisir de vivre, litote, semble loin de faire l’unanimité… Quelle illusion par conséquent de penser que nos parents nous enfantent pour notre propre bien ! Seule les préoccupe la jouissance qu’ils pourront tirer de notre présence. Nous n’existons en vérité que pour remplir d’aise ces profiteurs qui ont l’impensable hypocrisie de se faire passer pour nos bienfaiteurs, et poussent l’inhumain culot jusqu’à réclamer de nous gratitude, obéissance et piété filiale, sans compter les présents divers censés orner les incompréhensibles Fêtes des Mères et des Pères !
+
+显而易见，生存的快乐，这还是轻描淡写的说法，似乎离大众的共识相去甚远。那么，认为父母生养我们是为了我们的幸福，未免太过天真了！他们真正关心的是从我们身上获得的满足感。实际上，我们存在的唯一意义就是取悦这些自私的人。他们厚颜无耻地伪装成我们的恩人，甚至厚颜无耻地要求我们感恩、顺从和孝顺，更别提那些毫无意义的母亲节和父亲节礼物了！
+
+Un des plus adamantins monarques spirituels de l’humanité, le Bouddha, nous avait pourtant sévèrement avertis en proclamant son célèbre « Sarvam Duhkham : Tout est Souffrance », non seulement la naissance, la maladie, le travail, la vieillesse et la mort, bien entendu, mais même le bonheur puisque nous devrons inévitablement le perdre et porter le deuil de cette perte…
+
+人类最坚定不移的精神领袖之一——佛陀，曾用著名的“一切皆苦”这一告诫严厉地提醒我们：不仅是出生、疾病、工作、衰老和死亡，就连幸福也属于苦的范畴，因为我们迟早会失去它，并为失去而哀伤……
+
+Répondez sans dérobade : s’il existait une solution capable d’abolir la totalité des maux dont gémit notre désastreuse humanité, s’il était possible, par le biais d’un remède simple, immensément peu dispendieux, immédiatement accessible, scrupuleusement inoffensif, d’une efficacité absolue et définitive, de mettre un terme à toute détresse, à toute larme, à tout cri de douleur, à toute pathologie, à toute protestation de mal-être, à tout désespoir, à tout cataclysme, à toute angoisse, à tout malheur, bref à toute torture affligeant l’espèce humaine, auriez-vous la macabre inintelligence de dédaigner un tel remède, de mépriser une telle miraculeuse panacée ? Non, cela va sans dire.
+
+不加掩饰地回答：如果存在一种能彻底消除人类所有苦难的解决方案，如果有一种简单、廉价、易得、无害、效果绝对且永久的良方，能够终结一切痛苦、泪水、哀嚎、疾病、不满、绝望、灾难、焦虑和不幸，换句话说，能够根除人类所遭受的一切折磨，那么，你是否会愚蠢到拒绝这种良药，轻视这种奇迹般的万能药？答案不言而喻。
+
+Eh bien cette solution existe, et l’arcane s’en livre ici : elle consiste tout bonnement, en sa sainte, ovoïde et colombienne simplicité, à cesser de procréer…
+
+事实上，这种解决方案已经存在，而且答案显而易见：就是以一种神圣、简单、和平的方式，停止生育……
+
+Arrêtez dès maintenant de vous reproduire comme n’importe quelle tribu de primates arboricoles et d’ici moins d’un siècle, toute souffrance humaine aura disparu de la surface de la terre !
+
+立刻停止繁殖，就像那些树上的灵长类动物一样。不到一个世纪，人类所有的苦难都将从地球上消失！
+
+Hélas, une grimace entortille votre proboscide : vous voudriez conserver l’existence, mais sans avoir à payer le tarif de ses inconvénients. À notre plus haut regret, il nous faut vous annoncer que cela s’entrechoque dans l’incompatible : vivre c’est, de toute nécessité, souffrir, puisque tout bonheur ne s’achète qu’au prix de cent efforts déplaisants…
+
+唉，您皱起了眉头，显然是想继续活着，却又不想承受生活的痛苦。很遗憾地告诉您，这根本不可能。生活本身就是痛苦的，因为所有的快乐都伴随着无数的烦恼。
+
+Quoi ! Une solution palpite qui porterait remède à toutes les afflictions dont se plaignent sans répit les humains et vous hésitez à vous en emparer ? Une telle fin de non-recevoir vous identifie comme sado-masochiste : non seulement vous vous complaisez dans cette vaine souffrance que nous nommons existence, non seulement vous cautionnez, comme le pire des collaborateurs, la présence d’une telle souffrance, mais en outre, ô tudesque cruauté, vous avez la prétention de l’imposer à d’autres, qui ne la réclament pas !  
+
+什么！有一种能够治愈人类所有苦难的解决方案摆在眼前，你却犹豫不决？这种拒绝的态度只能说明你是个受虐狂：不仅沉迷于这种名为“生存”的毫无意义的痛苦之中，而且还纵容这种痛苦的存在，更过分的是，你居然还想把这种痛苦强加给那些并不想要它的人！
+
+Vous voulez exister, vous reproduire, mais le méritez-vous vraiment ?  Est-ce la noblesse d’âme qui vous meut ou bien seulement l’égoïsme le plus  bitumineux ?
+
+你想存在，想繁殖，但你真的有这个资格吗？推动你的是高尚的灵魂，还是最卑劣的自私？
+
+Inutile de feindre : l’enfant, c’est un cadeau que les parents se font à euxmêmes. Nous y reviendrons.
+
+没必要假装成：孩子，其实就是父母送给自己的礼物。我们稍后再讨论这个话题。
