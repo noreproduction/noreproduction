@@ -1,21 +1,22 @@
 ---
 layout: post
-title: 《生儿为人是何苦：出生在世的伤害》（第一章）
+title: 《生儿为人是何苦：出生在世的伤害》（第一章 导论）
 subtitle: 不曾存在，就无从被剥夺。
 tags: [经典]
 
 ---
 作者：David Benatar<br>
 译者：李屹
+站长注：如需获取全书，请转至[译著发行方介绍链接](https://guepubtw.com/2023/02/22/never-to-have-been/)
 
-<a href="#intro">引言</a>/
+<a href="#intro">导论</a>/
 <a href="#who is so lucky">谁那么幸运</a>/
 <a href="#narrative">反生论述和劝生的偏见</a>/
 <a href="#outline">本书大纲</a>/
 <a href="#reader guide">读者指南</a>
 
 
-<p id="intro" style="text-align: center; font-family: 'SimHei', sans-serif; font-weight: bold;">引言</p>
+<p id="intro" style="text-align: center; font-family: 'SimHei', sans-serif; font-weight: bold;">导论</p>
 
 本书的中心思想是：出生永远都是严重的伤害。我会以完整的篇幅为这套想法辩护，不过基本洞见很简单：生命里的好事固然让生命变得比什么好事都没发生来得好，但如果人自始没出生，那就算什么好事都没发生也谈不上失去。**不曾存在，就无从被剥夺。**然而，一则生命出生，就会承受相当严重的伤害，假使没出生，这份伤害就不会发生在这条命上。
 
