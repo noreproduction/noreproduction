@@ -7,7 +7,7 @@ tags: [经典]
 ---
 作者：David Benatar<br>
 译者：李屹<br>
-站长注：如需获取全书，请转至[译著发行方介绍链接](https://guepubtw.com/2023/02/22/never-to-have-been/)
+站长注：**如需获取全书，请转至<a href="https://guepubtw.com/2023/02/22/never-to-have-been/" target="_blank">译著发行方介绍链接</a>**
 
 <a href="#intro">导论</a>/
 <a href="#who is so lucky">谁那么幸运</a>/
