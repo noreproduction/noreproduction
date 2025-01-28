@@ -26,13 +26,13 @@ title: About
 >To the one who possesses discernment, everything is suffering. 
 
 <div style="text-align: right;">
-    PATANJALI, <i>Yoga Sutras</i>. India, 2<sup>nd</sup> century
+    PATANJALI, <i>Yoga Sutras</i>. India, 2<sup>nd</sup> century BC
 </div>
 
 
 对拥有慧眼的人来说，世间一切皆是苦难。
 
-—— **帕坦伽利**，《瑜伽经》，印度，公元2世纪
+—— **帕坦伽利**，《瑜伽经》，印度，公元前2世纪
 
 
 
